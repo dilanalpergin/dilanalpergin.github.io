@@ -6,8 +6,9 @@ redirect_from:
   - /markdown/
   - /markdown.html
 ---
-  
 ## Fun Fact
+## A Twin Brother!
+I have a twin brother who is not in academia but has more publications than me. 
 
 ## Travelled to 17 Countries!
 
