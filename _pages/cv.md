@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Economics, Middle East Technical University (METU), 2016
+* M.A. in Economics, University of Florida, 2021
+* Ph.D Candidate in Economics, University of Florida, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2016 – July 2018: Risk Management Analyst
+  * Industrial Development Bank of Turkey
+  * Duties included:
+   * Managing over 300 corporate portfolios for credit analysis and performance reviews. Monitoring and controlling credit risks in support of sustainable growth, facilitating use of Internal Ratings Based (IRB) approach to determine early warning indicators. Calculating Capital Adequacy Ratio by utilizing econometric models, assessing compatibility, and reporting monthly to the Executive Board.
+   * Consolidating financial statements of 2 subsidiaries and 3 associates and synthesized findings into standard report framework.
 
 * Fall 2015: Research Assistant
   * Github University
