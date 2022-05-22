@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 * I am pursuing Ph.D. at **University of Florida** under the supervision of [Prof. Steven Slutsky](https://people.clas.ufl.edu/slutsky/).
-* I was Machine Learning Intern at **IQVIA** during Summer 2021, working on developing machine learning models for improving health care services. 
-* I got my M.Sc. Degree in **Economics**  from **University of Florida** (May 2021).
-* My Ph.D research is based on but not limited to 
-  - health economics
+* I worked as a Junior Associate in Risk Management at [Industrial Development Bank of Turkey][https://en.tskb.com.tr/] for 2 years before attending the PhD program. 
+* I got my M.A. Degree in **Economics**  from **University of Florida** (May 2021).
+* My research agenda focuses on uncertainties in healthcare. Two overarching themes formthe research agenda: 
+- how consumer perceived risk of a pandemic influences personal consumption and spending
+- analysis of current policies for public health emergencies and how they may be improved to maximize social welfare
