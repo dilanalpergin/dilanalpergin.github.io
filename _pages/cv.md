@@ -29,10 +29,6 @@ Work experience
   * Ernst & Young (EY) 
   * Duties included: Simulated the audit process of corporate tax returns by running tax models. Participated in and contributed to tax legislation training
 
-* Summer 2015: Internship
-  * Ernst & Young (EY) 
-  * Duties included: Simulated the audit process of corporate tax returns by running tax models. Participated in and contributed to tax legislation training
-
 * Summer 2014: Internship
   * Ministry for EU Affairs 
   * Duties included: Contributed to Economic and Financial Policies Directorate of the Ministry for EU Affairs. Participated in evaluation process of multiple programs financed by IPA Funds. Created methods for aligning Turkish legislation with EU Acquis by targeting economic criteria, and economic and monetary union
@@ -41,15 +37,11 @@ Skills
 ======
 * Expertise: Microeconomics (theory & applied), Risk Perception, Regression Analysis, Causal Inference
 * Programming Languages: Stata, R, Matlab, Microsoft Excel, Python
-
-Publications
-======
-Currently working on one. Soon to be published. 
   
 Teaching
 ======
 * Create and maintain engaging and welcoming classroom environment where all students from various departments feel comfortable. Develop a rigorous course plan including weekly worksheets, exams, and weekly assignments. Communicate effectively as a lecturer by utilizing diverse teaching strategies that decrease student fail rate by 35%. Supervise classroom during exams, grade exams, assignments, and the term project, and conduct 2-hour weekly office hours for students needing assistance with classwork.
-* Courses: Managerial Economics - Fall 2021 & Fall 2022 & Spring 2023 (expected)
+* Courses: Managerial Economics - Fall 2021, Fall 2022, Spring 2023 (expected)
 
 Teaching Assistant
 ======
