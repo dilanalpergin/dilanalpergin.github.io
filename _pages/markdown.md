@@ -9,37 +9,34 @@ redirect_from:
   
 ## Fun Fact
 
-## Travelled to 22 Countries!
+## Travelled to 17 Countries!
 
 I can not wait to travel to more. Maybe I should do a city version of this list!
   1. Turkey
   2. USA
-  3. Finland
-  4. Mexico
-  5. Russia
-  6. Ukraine
-  7. Spain
-  8. Poland
-  9. Latvia
-  10. Lithuania
-  11. Greece
-  12. France
-  13. Belgium
-  14. Germany
-  15. Bulgaria
-  16. Slovakia
-  17. Malta
-  18. Romania
-  19. Hungary
-  20. Croatia
-  21. Cyprus
-  22. Bahamas!
+  3. Sweden
+  4. Norway
+  5. Spain
+  6. United Kingdom
+  7. Italy
+  8. France
+  9. Greece
+  10. Czechia
+  11. Hungary
+  12. Austria
+  13. Germany
+  14. Serbia
+  15. Tunisia
+  16. Cyprus
+  17. Bahamas
 
-## Books
+## Books and Movies 
 
-Here are a few books that I am simultaneously reading/listening.
+Here are a few books and movies that I like.
 
-  1. The Book of Why - Dana Mackenzie and Judea Pearl
-  2. The Midnight Library - Matt Haig
-  3. Finland: The Country of White Lilies - Grigory Spiridonovich Petrov
+  1. Jitterbug Perfume - Tom Robbins
+  2. Survivor - Chuck Palahniuk
+  3. The Unbearable Lightness of Being - Milan Kundera
+  4. Mommy - directed by Xavier Dolan
+  5. Relatos salvajes - directed by Damián Szifron
 
