@@ -38,21 +38,18 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Currently working on one. Soon to be published. 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Managerial Economics - Fall 2022
+
+Teaching Assistant
+======
+Econometric Analysis 
+Game Theory Applied 
+Environmental Economics
+Principles of Macroeconomics
   
 Service and leadership
 ======
