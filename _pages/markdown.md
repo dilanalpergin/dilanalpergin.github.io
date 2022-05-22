@@ -8,8 +8,8 @@ redirect_from:
 ---
 ## Fun Fact
 ## A Twin Brother!
-I have a twin brother who is not in academia but has more [publications](https://pubmed.ncbi.nlm.nih.gov/?term=Alpergin+baran) than me. He is a brain surgeon in Turkey. Here is a [picture](barok.jpeg) of him that also doesn't look like me.
-![Shadow Bumin Debugging](barok.jpeg)
+I have a twin brother who is not in academia but has more [publications](https://pubmed.ncbi.nlm.nih.gov/?term=Alpergin+baran) than me. He is a brain surgeon in Turkey. Here is a picture of him that also doesn't look like me.
+![barok Debugging](barok.jpeg)
 ## Travelled to 17 Countries!
 
 I can not wait to travel to more. Maybe I should do a city version of this list!
