@@ -9,5 +9,8 @@ main:
   - title: "Working Papers"
     url: /publications/ 
     
+  - title: "Teaching"
+  url: /teaching/
+    
   - title: "Beyond Academic Life"
     url: /markdown/
