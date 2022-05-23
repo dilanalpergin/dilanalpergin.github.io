@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am pursuing Ph.D. at **University of Florida** under the supervision of [Prof. Steven Slutsky](https://people.clas.ufl.edu/slutsky/).
-* I worked as a Junior Associate in Risk Management at [Industrial Development Bank of Turkey][https://en.tskb.com.tr/] for 2 years before attending the PhD program. 
-* I got my M.A. Degree in **Economics**  from **University of Florida** (May 2021).
-* My research agenda focuses on uncertainties in healthcare. Two overarching themes formthe research agenda: 
-- how consumer perceived risk of a pandemic influences personal consumption and spending
-- analysis of current policies for public health emergencies and how they may be improved to maximize social welfare
+I am a PhD Candidate in Economics at the [University of Florida](https://www.ufl.edu/). My research interests span the two fields of health economics and health policy and applied microeconomics with a focus on consumer behavior. 
+
+My job market paper focuses on the role of risk perception in explaining changes in individual spending in the U.S. during the COVID-19 pandemic and the mechanism behind such a relationship. Another part of my research focuses on the socially optimal treatment and health expenditures under uncertainties.
+
+I am an instructor for Managerial Economics and I will graduate with my Ph.D. in Spring 2023. I am currently on the job market and I am available for interviews, including at the ASSA 2023 Annual Meeting on January 6-8, 2023.
+
