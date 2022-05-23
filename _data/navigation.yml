@@ -2,15 +2,9 @@
 main:
   - title: "CV"
     url: /cv/
-    
-  - title: "Working Papers2"
-    url: /markdown2/ 
-    
+      
   - title: "Working Papers"
     url: /publications/ 
     
-  - title: "Teaching"
-  url: /teaching/
-    
-  - title: "Beyond Academic Life"
+ - title: "Beyond Academic Life"
     url: /markdown/
