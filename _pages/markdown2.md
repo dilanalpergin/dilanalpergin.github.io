@@ -1,10 +1,5 @@
 ---
-permalink: /workingpapers/
-title: "Working Papers"
-author_profile: true
-redirect_from: 
-  - /markdown/
-  - /markdown.html
+
 ---
 ## Fun Fact
 ## A Twin Brother!
