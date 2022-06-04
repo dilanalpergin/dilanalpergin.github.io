@@ -4,4 +4,4 @@ collection: publications
 permalink: /publication/RiskPerception
 excerpt: ''
 ---
-This paper is currently on progress.
+
