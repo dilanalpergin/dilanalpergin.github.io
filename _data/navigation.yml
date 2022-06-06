@@ -1,10 +1,10 @@
 # main links links
-- main:
-  - title: "CV"
-    url: /cv/
+main:
+ - title: "CV"
+   url: /cv/
       
-  - title: "Working Papers"
-    url: /publications/ 
+ - title: "Working Papers"
+   url: /publications/ 
     
  - title: "Beyond Academic Life"
-    url: /markdown/
+   url: /markdown/
