@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc in Economics, Middle East Technical University (METU), 2016
+* B.Sc. in Economics, Middle East Technical University (METU), 2016
 * M.A. in Economics, University of Florida, 2021
-* Ph.D Candidate in Economics, University of Florida, 2023 (expected)
+* Ph.D. Candidate in Economics, University of Florida, May 2023 (expected)
 
 Work experience
 ======
