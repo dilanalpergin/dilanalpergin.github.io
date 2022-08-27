@@ -2,7 +2,7 @@
 ---
 title: ""
 collection: teaching
-type: "Managerial Economics"
+type: "ECP 3703 Managerial Economics"
 permalink: /teaching/2022-teaching-1
 venue: "University of Florida, Department of Economics"
 date: 2021-08-08
