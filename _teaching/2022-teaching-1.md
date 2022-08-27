@@ -1,5 +1,5 @@
 ---
-title: "View Evaluations"
+title: "Evaluations"
 collection: teaching
 type: "Managerial Economics"
 permalink: /teaching/2022-teaching-1
