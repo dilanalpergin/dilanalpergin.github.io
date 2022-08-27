@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Teaching Evaluations"
 collection: teaching
 type: "Managerial Economics"
