@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Teaching Evaluations"
+title: ""
 collection: teaching
 type: "Managerial Economics"
 permalink: /teaching/2022-teaching-1
