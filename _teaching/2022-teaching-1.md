@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-teaching-1
 venue: "University of Florida, Department of Economics"
 date: 2021-08-08
 location: "Gainesville FL, USA"
