@@ -1,3 +1,5 @@
+I teach Managerial Economics 
+
 ---
 title: ""
 collection: teaching
