@@ -15,4 +15,5 @@ My job market paper focuses on the role of risk perception in explaining changes
 I am an instructor for Managerial Economics and I will graduate with my Ph.D. in May 2023. I am currently on the job market and I am available for interviews, including at the ASSA 2023 Annual Meeting on January 6-8, 2023.
 
 
-dilanalpergin@ufl.edu[dilanalpergin@ufl.edu]
+dilanalpergin@ufl.edu
+352-871-6314
