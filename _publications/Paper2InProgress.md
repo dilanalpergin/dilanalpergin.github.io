@@ -2,6 +2,6 @@
 title: "Risk Perception of COVID-19 and Consumption in California  [JOB MARKET PAPER]"
 collection: publications
 permalink: /publication/paper2
-abstract: "TBD"
+abstract: "This paper studies the role of risk perception in explaining consumption expenditure changes during the COVID-19 pandemic and the mechanism behind such a relationship. Under the framework of the two-stage instrumental variable (IV) analysis, I identify a causal relationship between consumer risk perception and spending by focusing on the period between April 1, 2020 to January 2, 2021, before the vaccine was publicly available. Specifically, I use the weekly growth rate of COVID-19 cases in New York as a source of exogenous variation in consumer risk perception in California. Two datasets are used for this purpose: (i) The University of Southern California (USC) Center for Economic and Social Research's Understanding Coronavirus in America Survey and (ii) The Opportunity Insights Economic Tracker. Under this empirical framework, I find that California residents' risk perception of death, infection, money, and job loss due to COVID-19 increases with an increase in the growth rate of confirmed cases in New York. Furthermore, the results show a negative and significant effect of risk perception on consumers' spending on major consumption categories, whereas the effect is positive for others. Specifically, this paper finds that individuals substitute spending on some categories of consumption for necessities and entertainment goods during the COVID-19 crisis."
 ---
 
