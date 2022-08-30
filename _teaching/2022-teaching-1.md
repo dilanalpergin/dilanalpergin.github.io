@@ -8,6 +8,6 @@ date: 2022-08-25
 location: "Gainesville FL, USA"
 
 ---
-Link to view the latest Syllabus [click here](Alpergin_Syllabus_Fall2022.pdf) and Teaching Evaluations [click here](Alpergin_Fall 2021_Evaluations)
+Link to view the latest Syllabus [click here](Alpergin_Syllabus_Fall2022.pdf) and Teaching Evaluations [click here](Alpergin_Fall 2021_Evaluations.pdf)
 
 
