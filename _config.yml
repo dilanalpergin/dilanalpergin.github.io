@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dilan Alpergin, Ph.D."
+title                    : "Dilan Alpergin"
 title_separator          : "-"
 name                     : &name "Dilan Alpergin"
 description              : &description "personal description"
