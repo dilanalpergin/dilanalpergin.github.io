@@ -4,7 +4,7 @@ collection: teaching
 type: "ECP 3703 Managerial Economics"
 permalink: /teaching/2022-teaching-1
 venue: "University of Florida, Department of Economics"
-date: 2022-08-25
+date: 2023-08-25
 location: "Gainesville FL, USA"
 
 ---
