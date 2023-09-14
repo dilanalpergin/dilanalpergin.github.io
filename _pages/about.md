@@ -15,5 +15,5 @@ My most recent paper focuses on the family spillovers effect on healthcare consu
 At the University of Florida, I was working as an instructor for Managerial Economics while working on my doctorate research. This experience improved my ability to interact effectively and collegially with people at all levels.  
 
 
-- [dilanalpergin@ufl.edu](mailto:dilanalpergin@gmail.com)
+- [dilanalpergin@gmail.com](mailto:dilanalpergin@gmail.com)
 - 352-871-6314
