@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Link to view my Resume [click here](Resume_2023_DA.pdf)
+Link to view my Resume [click here](Alpergin_Resume_25.pdf) and my full CV [click here](Alpergin_CV_25.pdf).
