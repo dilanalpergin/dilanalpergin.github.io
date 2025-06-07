@@ -119,6 +119,7 @@ author:
 
 # Reading Files
 include:
+  - favicon.png
   - .htaccess
   - _pages
   - files
